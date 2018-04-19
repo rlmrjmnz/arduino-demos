@@ -4,9 +4,9 @@
 #define PASS_LENGTH 4
 
 // output pins
-int redPin = 13;
-int bluePin = 12;
-int buzzerPin = 3;
+int bluePin = 0;
+int redPin = 1;
+int buzzerPin = 2;
 
 // keypad vars
 int rows = 4;
